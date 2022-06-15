@@ -1,5 +1,2 @@
-This is a new first line
-This line is being appended to test.txt
-And another line here.
-This is more text being appended to test.txt
-And another line here.
+MY BRAND NEW TEXTMY FIRST LINE IN A+ OPENINGThis is an added line, because I used a+ mode
+This is a real new line on the next line
